@@ -10,6 +10,7 @@ console.log("Hola "+ nombre + '\nMi web es: '+ web);
 //correr: nodemon facilitadores.js
 //corre mi codigo y vuelve a correr si detecto que hice algún cambio
 //aumenta productividad en el diseño de la pagina
+//detener: ctrl C
 
 //PM2: Producción
 //instalación: npm install -g pm2
