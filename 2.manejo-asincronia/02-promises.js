@@ -47,7 +47,7 @@ hola('Oliver')
     .then(habla)
     .then(adio)
     .then((nombre)=> {
-        console.log('Terminando el proceso');
+        console.log('Terminando el proceso');//comenta linea para ejecutar catch
     })
     .catch(error =>{
         console.error('Hay un erroraso');
